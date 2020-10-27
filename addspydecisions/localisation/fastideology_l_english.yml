@@ -1,0 +1,34 @@
+﻿l_english:
+
+fastideology:0 "Fast Ideology Change"
+
+fast_ideology_1:0 "Fascism Drift 10"
+fast_ideology_1_desc:0 "We can turn Fascist Faster."
+
+fast_ideology_2:0 "Communism Drift 10"
+fast_ideology_2_desc:0 "We can turn Communist Faster."
+
+fast_ideology_3:0 "Democratic Drift 10"
+fast_ideology_3_desc:0 "We can turn Democratic Faster."
+
+fast_ideology_4:0 "Non-Aligned Drift 10"
+fast_ideology_4_desc:0 "We can turn Non-Aligned Faster."
+
+fast_ideology:0 "Fascism"
+fast_ideology2:0 "Communism"
+fast_ideology3:0 "Democratic"
+fast_ideology4:0 "Non-Aligned"
+
+fast_ideology_5:0 "Remove Ideology Drift"
+fast_ideology_5_desc:0 "We are to end the Fascist conversion."
+
+fast_ideology_6:0 "Remove Ideology Drift"
+fast_ideology_6_desc:0 "We are to end the Communist conversion."
+
+fast_ideology_7:0 "Remove Ideology Drift"
+fast_ideology_7_desc:0 "We are to end the Democratic conversion."
+
+fast_ideology_8:0 "Remove Ideology Drift"
+fast_ideology_8_desc:0 "We are to end the Non-Aligned conversion."
+
+--Please give credits if thinking about using some of the code or getting ideas :)

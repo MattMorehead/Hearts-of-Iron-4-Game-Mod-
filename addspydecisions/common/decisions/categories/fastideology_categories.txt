@@ -1,0 +1,6 @@
+fastideology = {
+	icon = generic_propaganda
+	
+	visible = {
+	}
+}

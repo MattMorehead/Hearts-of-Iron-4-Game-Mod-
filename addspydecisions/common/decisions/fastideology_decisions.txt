@@ -1,0 +1,55 @@
+fastideology = {
+
+fast_ideology_1 = {
+icon = generic_propaganda
+visible = { OR = {NOT = {has_idea = fast_ideology has_idea = fast_ideology2 has_idea = fast_ideology3 has_idea = fast_ideology4}}}
+available { OR = {NOT = {has_idea = fast_ideology has_idea = fast_ideology2 has_idea = fast_ideology3 has_idea = fast_ideology4}}}
+complete_effect = {add_ideas = fast_ideology}
+ai_will_do = {factor = 0}}	
+
+fast_ideology_2 = {
+icon = generic_propaganda
+visible = { OR = {NOT = {has_idea = fast_ideology has_idea = fast_ideology2 has_idea = fast_ideology3 has_idea = fast_ideology4}}}
+available = { OR = {NOT = {has_idea = fast_ideology has_idea = fast_ideology2 has_idea = fast_ideology3 has_idea = fast_ideology4}}}
+complete_effect = {add_ideas = fast_ideology2}
+ai_will_do = {factor = 0}}	
+
+fast_ideology_3 = {
+icon = generic_propaganda
+visible { OR = {NOT = {has_idea = fast_ideology has_idea = fast_ideology2 has_idea = fast_ideology3 has_idea = fast_ideology4}}}
+available = { OR = {NOT = {has_idea = fast_ideology has_idea = fast_ideology2 has_idea = fast_ideology3 has_idea = fast_ideology4}}}
+complete_effect = {add_ideas = fast_ideology3}
+ai_will_do = {factor = 0}}	
+
+fast_ideology_4 = {
+icon = generic_propaganda
+visible { OR = {NOT = {has_idea = fast_ideology has_idea = fast_ideology2 has_idea = fast_ideology3 has_idea = fast_ideology4}}}
+available = { OR = {NOT = {has_idea = fast_ideology has_idea = fast_ideology2 has_idea = fast_ideology3 has_idea = fast_ideology4}}}
+complete_effect = {add_ideas = fast_ideology4}
+ai_will_do = {factor = 0}}	
+
+fast_ideology_5 = {
+icon = generic_propaganda
+visible = {has_idea = fast_ideology}
+complete_effect = {remove_ideas = fast_ideology}
+ai_will_do = {factor = 0}}
+
+fast_ideology_6 = {
+icon = generic_propaganda
+visible = {has_idea = fast_ideology2}
+complete_effect = {remove_ideas = fast_ideology2}
+ai_will_do = {factor = 0}}
+
+fast_ideology_7 = {
+icon = generic_propaganda
+visible = {has_idea = fast_ideology3}
+complete_effect = {remove_ideas = fast_ideology3}
+ai_will_do = {factor = 0}}
+
+fast_ideology_8 = {
+icon = generic_propaganda
+visible = {has_idea = fast_ideology4}
+complete_effect = {remove_ideas = fast_ideology4}
+ai_will_do = {factor = 0}}}
+
+--Please give credits if thinking about using some of the code or getting ideas :)
