@@ -1,0 +1,7 @@
+add_oprative = {
+	icon = generic_propaganda
+
+	visible = {
+	
+	}
+}
